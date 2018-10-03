@@ -1,1 +1,3 @@
-Replace this with a link to your a GitHub or social media profile.
+[My Profolio](https://xbilin2.github.io/myportfolio/)
+
+![GitHub Logo](https://raw.githubusercontent.com/xbilin2/myportfolio/add-images-links/Octocat.GIF)
